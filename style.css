@@ -229,4 +229,10 @@ footer {
     }
 
     nav ul li {
-        text-align:
+        text-align: left;
+    }
+
+    .habilidades-lista {
+        justify-content: center;
+    }
+}
